@@ -1,0 +1,23 @@
+{
+  "name": "jsfunctions",
+  "version": "1.0.0",
+  "description": "Commonly used functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanogiuseppe/jsfunctions.git"
+  },
+  "keywords": [
+    "js",
+    "library"
+  ],
+  "author": "Stéphano Giuseppe <stephano.grp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephanogiuseppe/jsfunctions/issues"
+  },
+  "homepage": "https://github.com/stephanogiuseppe/jsfunctions#readme"
+}
